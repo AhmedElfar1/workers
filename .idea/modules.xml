@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-63668771/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-63668771/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1802974499/android.firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1802974499/android.firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1629282486/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-1629282486/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1223018829/android.firebase_database.iml" filepath="$PROJECT_DIR$/.idea/modules/-1223018829/android.firebase_database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1007882900/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/1007882900/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/152851499/android.hexcolor.iml" filepath="$PROJECT_DIR$/.idea/modules/152851499/android.hexcolor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/421882595/android.image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/421882595/android.image_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2089764501/android.shared_preferences_android.iml" filepath="$PROJECT_DIR$/.idea/modules/2089764501/android.shared_preferences_android.iml" />
+    </modules>
+  </component>
+</project>
